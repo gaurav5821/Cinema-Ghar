@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c47a3b3.css",
+    "main.js": "/static/js/main.7420cebf.js",
+    "static/media/default_bg.png": "/static/media/default_bg.96cdbdee3d14f9824063.png",
+    "static/media/footer-bg.jpg": "/static/media/footer-bg.7b1562b2b943d2f5056c.jpg",
+    "static/media/hbo-max.svg": "/static/media/hbo-max.3f5b5fccd68811672ab05eb95dce13a9.svg",
+    "index.html": "/index.html",
+    "static/media/movie-icon.svg": "/static/media/movie-icon.17ca78640f973a983c5cd4ffec8a19d2.svg",
+    "static/media/series-icon.svg": "/static/media/series-icon.0389920894c4b3087f95d5eeb55ad3f3.svg",
+    "static/media/home-icon.svg": "/static/media/home-icon.e4b30aaa9f5e9951fbd071b73b129cb4.svg",
+    "main.9c47a3b3.css.map": "/static/css/main.9c47a3b3.css.map",
+    "main.7420cebf.js.map": "/static/js/main.7420cebf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c47a3b3.css",
+    "static/js/main.7420cebf.js"
+  ]
+}
